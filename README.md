@@ -1,10 +1,7 @@
 lancer l’application :
-### 'git clone https://github.com/elbayass/React-exercice-api.git'
-### 'cd React-exercice-api'
-### 'npm start'
-visit http://localhost:3000
 
-Runs the app in the development mode.<br>
+### 'npm start'
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Authentification de base : 
