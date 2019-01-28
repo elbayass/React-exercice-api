@@ -1,5 +1,5 @@
 lancer l’application :
-### 'git clone  
+### 'git clone https://github.com/elbayass/React-exercice-api.git'
 ### 'cd React-exercice-api'
 ### 'npm start'
 visit http://localhost:3000
